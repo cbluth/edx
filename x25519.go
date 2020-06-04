@@ -1,4 +1,4 @@
-package github.com/cbluth/edx
+package edx
 
 import (
 	"log"
