@@ -1,5 +1,5 @@
 module github.com/cbluth/edx
 
-go 1.14
+go 1.16
 
-require golang.org/x/crypto v0.0.0-20200602180216-279210d13fed
+require golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
